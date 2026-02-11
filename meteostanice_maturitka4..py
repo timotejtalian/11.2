@@ -22,4 +22,4 @@ fw.write(f'Nejzssia teplota je: {max(temperatures)}\n') #3. zapis do suboru
 #print(f'Nejvyssia teplota je: {maxtemp}') #3. rucne
 print(f'Priemerna teplota je: {round(sum(temperatures)/len(temperatures), 2)}') #5.
 fw.write(f'Priemerna teplota je: {round(sum(temperatures)/len(temperatures), 2)}\n') #5. zapis do suboru
-fw.close()
+fw.close()# the coading train nejakz typek
